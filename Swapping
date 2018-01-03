@@ -1,0 +1,10 @@
+class  ABC
+{ public static void main(string args[])
+  { int x,y,temp;
+    system.out.println("Enter x and y");
+    temp=x;
+    x=y
+    y=temp;
+    system.out.println("After swapping \nx="+x+"\ny="+y);
+    }
+ }   
